@@ -13,3 +13,14 @@ https://es-doc.org/cmip6-experiments/
 * Monday Nov. 9
 
 - BCC model -- compare one historical runs against the precipitation data
+
+- Cartopy map of China for GCM plotting
+
+- Variables to extract from zarr file:  
+  https://github.com/ES-DOC/esdoc-docs/tree/master/cmip6/models/csv
+  https://pcmdi.llnl.gov/mips/cmip3/variableList.html
+  
+  Model run:
+  
+  
+  
