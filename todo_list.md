@@ -27,9 +27,11 @@ https://es-doc.org/cmip6-experiments/
   amip -- atmosphere model intercomparison
   hist-1950 
   
-  Step 1 -- getting zarr files that correspond to BCC hist-1950
-  Step 2 -- extracting the precp fields from the zarr file
-  Step 3 -- analyzing with pandas
+  Step 1 -- getting zarr files that correspond to BCC hist-1950  
+  Step 2 -- extracting the precp fields from the zarr file  
+  Step 3 -- analyzing with pandas  
+     - Model layout file:  https://pangeo-data.github.io/pangeo-cmip6-cloud/overview.html#csv-file-structure
+     
   
   
   
