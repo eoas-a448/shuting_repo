@@ -22,5 +22,18 @@ https://es-doc.org/cmip6-experiments/
   
   Model run:
   
+  https://search.es-doc.org/?project=cmip6&documentType=cim.2.designing.NumericalExperiment&client=esdoc-url-rewrite
+  
+  amip -- atmosphere model intercomparison
+  hist-1950 
+  
+  Step 1 -- getting zarr files that correspond to BCC hist-1950
+  Step 2 -- extracting the precp fields from the zarr file
+  Step 3 -- analyzing with pandas
+  
+  
+  
+  
+  
   
   
