@@ -12,15 +12,12 @@
 #     name: python3
 # ---
 
-# %% [markdown] {"toc": true}
-# <h1>Table of Contents<span class="tocSkip"></span></h1>
-# <div class="toc"><ul class="toc-item"><li><span><a href="#Geographic-coordinate-systems" data-toc-modified-id="Geographic-coordinate-systems-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Geographic coordinate systems</a></span><ul class="toc-item"><li><span><a href="#Basic-points" data-toc-modified-id="Basic-points-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Basic points</a></span></li><li><span><a href="#An-example" data-toc-modified-id="An-example-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>An example</a></span></li></ul></li><li><span><a href="#Map-projections" data-toc-modified-id="Map-projections-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>Map projections</a></span><ul class="toc-item"><li><span><a href="#plotting-Vancouver-on-a-map" data-toc-modified-id="plotting-Vancouver-on-a-map-2.1"><span class="toc-item-num">2.1&nbsp;&nbsp;</span>plotting Vancouver on a map</a></span><ul class="toc-item"><li><span><a href="#Step-1:-Use-cartopy-to-make-a-LAEA-map-of-BC-including-Vancouver." data-toc-modified-id="Step-1:-Use-cartopy-to-make-a-LAEA-map-of-BC-including-Vancouver.-2.1.1"><span class="toc-item-num">2.1.1&nbsp;&nbsp;</span>Step 1: Use <a href="http://scitools.org.uk/cartopy/docs/latest/index.html" target="_blank">cartopy</a> to make a LAEA map of BC including Vancouver.</a></span></li></ul></li><li><span><a href="#zoom-in-on-vancouver" data-toc-modified-id="zoom-in-on-vancouver-2.2"><span class="toc-item-num">2.2&nbsp;&nbsp;</span>zoom in on vancouver</a></span></li><li><span><a href="#Use-transform_point" data-toc-modified-id="Use-transform_point-2.3"><span class="toc-item-num">2.3&nbsp;&nbsp;</span>Use transform_point</a></span></li><li><span><a href="#Step-2:--Put-the-corners-of-a-modis-granule-on-the-map.--Use-this-2013.220.2105-granule" data-toc-modified-id="Step-2:--Put-the-corners-of-a-modis-granule-on-the-map.--Use-this-2013.220.2105-granule-2.4"><span class="toc-item-num">2.4&nbsp;&nbsp;</span>Step 2:  Put the corners of a modis granule on the map.  Use this 2013.220.2105 granule</a></span></li></ul></li></ul></div>
 # %% [markdown]
 # # Geographic coordinate systems
 #
 # The pamphlet:
 #
-# [Understanding map projections](https://clouds.eos.ubc.ca/~phil/courses/eosc582/downloads/understanding_map_projections.pdf)
+# [Understanding map projections](https://drive.google.com/file/d/1araPnZwMui9tBTPyLO_UHVC2DDEIdZ0p/view?usp=sharing)
 #
 # Introduces geographic coordinate systems in Chapter 1.  They solve the problem of how to locate yourself on the earth's surface in three dimensions.  They specify an angular measure of units, a prime meridian, a spheroid and a datam (see chapter 1).
 #

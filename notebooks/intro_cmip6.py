@@ -29,6 +29,32 @@
 # https://pangeo-data.github.io/pangeo-cmip6-cloud/accessing_data.html#manually-searching-the-catalog
 #
 # https://storage.cloud.google.com/cmip6/cmip6-zarr-consolidated-stores.csv  -- 50 Mbytes
+#
+# Pandas:  https://github.com/wesm/pydata-book
+# Beijing model:  https://gmd.copernicus.org/articles/12/1573/2019/
+#
+#
+# https://hub.binder.pangeo.io/user/pangeo-data-pan--cmip6-examples-7bc6tlcw/lab
+#
+# https://journals.ametsoc.org/jcli/article/30/15/5985/98054/Climatological-Characteristics-of-Typical-Daily
+#
+# https://pangeo-data.github.io/pangeo-cmip6-cloud/
+#
+# https://es-doc.org/cmip6-experiments/
+#
+# Pandas:  https://github.com/wesm/pydata-book
+# Beijing model:  https://gmd.copernicus.org/articles/12/1573/2019/
+#
+#
+# https://hub.binder.pangeo.io/user/pangeo-data-pan--cmip6-examples-7bc6tlcw/lab
+#
+# https://journals.ametsoc.org/jcli/article/30/15/5985/98054/Climatological-Characteristics-of-Typical-Daily
+#
+# https://pangeo-data.github.io/pangeo-cmip6-cloud/
+#
+# https://es-doc.org/cmip6-experiments/
+#
+# https://esgf-node.llnl.gov/search/cmip6/
 
 # %%
 import warnings
